@@ -4,9 +4,9 @@
 
 ## <h3>🙋‍♂️ About Me</h1>
 
-- 🔭 I’m currently working on **[React Js](https://reactjs.org/)**
+- 🔭 I’m currently working on **[Front End and Back End API](https://reactjs.org/)**
 
-- 🌱 I’m currently learning **Reac Js**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
