@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **[Front End and Back End API](https://reactjs.org/)**
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to jobs on **Full Stack Developer**
 
 - 👨‍💻 All of my information are available at **[My Portfolio](https://github.com/Nitesh8877/Basic-Banking-System)**
 
