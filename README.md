@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **[Front End and Back End API](https://reactjs.org/)**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Docker**
 
 - 👯 I’m looking to jobs on **Full Stack Developer**
 
